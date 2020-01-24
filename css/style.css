@@ -21,3 +21,10 @@
     position: relative;
     align-content: center;
 }
+#timeline{
+    position: relative;
+    left: 10px;
+    top: 30px;
+    font-weight: medium;
+
+}
